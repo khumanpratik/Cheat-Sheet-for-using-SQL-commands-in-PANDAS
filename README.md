@@ -10,7 +10,7 @@
 
 **but but but.......**
 
-## there is a challenger to SQL, _The Analysis DarkNight_ or _The Manipulation Ninja_ it is _"PANDAS"_!!!
+## there is a challenger to SQL, _The Analysis DarkNight_ or _The Manipulation Ninja_, it is _"PANDAS"_!!!
 
 ### What is PANDAS ?
 
